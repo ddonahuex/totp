@@ -1,11 +1,5 @@
 # Binaries
 totp-generator
-go
-*.exe
-*.exe~
-*.dll
-*.so
-*.dylib
 
 # Go Workspace (Local only)
 go.work
