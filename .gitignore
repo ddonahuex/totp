@@ -1,0 +1,22 @@
+# Binaries
+totp-generator
+go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go Workspace (Local only)
+go.work
+go.work.sum
+
+# JavaScript / Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.env
+
+# OS Metadata
+.DS_Store
+Thumbs.db
